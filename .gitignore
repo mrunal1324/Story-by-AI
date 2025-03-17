@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.DS_Store
+*.idea/
+*.vscode/
+.venv/
+venv/
+.env
+audio.wav
+*.zip
+*.safetensors
+*.cache/
+*.qodo/
